@@ -1,3 +1,6 @@
+/* Hannah Metzler
+   CSC142 Java II */
+
 import java.util.Scanner;
 
 public class BestChoice
