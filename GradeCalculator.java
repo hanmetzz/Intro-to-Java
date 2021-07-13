@@ -5,7 +5,7 @@
    Hannah Metzler
 */
 import java.util.Scanner;
-public class Week1_GC
+public class GradeCalculator
 {
    public static void main(String[] args)
    {
